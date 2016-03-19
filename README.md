@@ -1,2 +1,2 @@
-# python-softwares
-this is my first python project
+# python-softwares-in-hausa-language
+this is my first python project in my local language
